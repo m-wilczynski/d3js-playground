@@ -2,7 +2,7 @@
 
     const margin = ({top: 20, right: 20, bottom: 30, left: 30});
     const width = 600;
-    const height = 270;
+    const height = 200;
     const color = isErrorSeries => {
         if (isErrorSeries === false) {
             return '#6edb75b5';
@@ -84,14 +84,15 @@
         .attr("transform", `translate(0,${height - margin.bottom})`)
         .call(d3.axisBottom(x)
             .tickFormat(d3.timeFormat("%H:%M:%S"))
-            .ticks(8));
+            .ticks(7));
 
     const yAxis = (g, applicationName) => g
         .attr("transform", `translate(${margin.left},0)`)
-        .call(d3.axisLeft(y))
+        .call(d3.axisLeft(y).ticks(8))
         .call(g => g.select(".domain").remove())
         .call(g => g.select(".tick:last-of-type text").clone()
-        .attr("x", 3)
+        .attr("x", 17)
+        .attr("y", -10)
         .attr("text-anchor", "start")
         .attr("font-weight", "bold")
         .text(applicationName));
