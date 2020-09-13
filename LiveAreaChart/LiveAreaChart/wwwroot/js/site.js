@@ -11,6 +11,56 @@
         }
     };
 
+    let data = [];
+    let applications = new Map();
+
+    function populateData(rawData) {
+
+        data = [];
+        applications = groupRawDataByApplicationName(rawData);
+
+        //TODO: Optimize - produce on grouping
+        for ([applicationName, applicationHealthchecks] of applications) {
+    
+            const successDateBucket = new Map();
+            const failureDateBucket = new Map();
+    
+            applicationHealthchecks.forEach(healthCheck => {
+    
+                const normalizedDate = new Date(healthCheck.checkTime);
+                normalizedDate.setSeconds(Math.floor(normalizedDate.getSeconds()/10)*10, 0);
+                
+                if (healthCheck.success) {
+    
+                    if (successDateBucket.get(normalizedDate.getTime()) === undefined) {
+                        successDateBucket.set(normalizedDate.getTime(), {
+                            date: normalizedDate,
+                            value: 1
+                        });
+                    }
+                    successDateBucket.get(normalizedDate.getTime()).value += 1;
+                } else {
+                    if (failureDateBucket.get(normalizedDate.getTime()) === undefined) {
+                        failureDateBucket.set(normalizedDate.getTime(), {
+                            date: normalizedDate,
+                            value: 1
+                        });
+                    }
+                    failureDateBucket.get(normalizedDate.getTime()).value += 1;
+                }
+            });
+    
+            data.push(
+            {
+                key: applicationName,
+                successSeries: Array.from(successDateBucket.values()),
+                errorSeries: Array.from(failureDateBucket.values())
+            });
+        }
+    }
+
+    populateData(rawData);
+
     function groupRawDataByApplicationName(rawData) {
         const map = new Map();
         for (let element of rawData) {
@@ -22,61 +72,12 @@
         return map;
     }
 
-    const applications = groupRawDataByApplicationName(rawData);
-
-    const data = [];
-    
-    //TODO: Optimize - produce on grouping
-    for ([applicationName, applicationHealthchecks] of applications) {
-
-        const successDateBucket = new Map();
-        const failureDateBucket = new Map();
-
-        applicationHealthchecks.forEach(healthCheck => {
-
-            const normalizedDate = new Date(healthCheck.checkTime);
-            normalizedDate.setSeconds(Math.floor(normalizedDate.getSeconds()/10)*10, 0);
-            
-            if (healthCheck.success) {
-
-                if (successDateBucket.get(normalizedDate.getTime()) === undefined) {
-                    successDateBucket.set(normalizedDate.getTime(), {
-                        date: normalizedDate,
-                        value: 1
-                    });
-                }
-                successDateBucket.get(normalizedDate.getTime()).value += 1;
-            } else {
-                if (failureDateBucket.get(normalizedDate.getTime()) === undefined) {
-                    failureDateBucket.set(normalizedDate.getTime(), {
-                        date: normalizedDate,
-                        value: 1
-                    });
-                }
-                failureDateBucket.get(normalizedDate.getTime()).value += 1;
-            }
-        });
-
-
-        data.push(
-        {
-            key: applicationName,
-            errorSeries: false,
-            values: Array.from(successDateBucket.values())
-        },
-        {
-            key: applicationName,
-            errorSeries: true,
-            values: Array.from(failureDateBucket.values())
-        });
-    }
-
     const x = d3.scaleTime()
-        .domain(d3.extent(data[0].values, d => d.date))
+        .domain(d3.extent(data[0].successSeries, d => d.date))
         .range([margin.left, width - margin.right]);
 
     const y = d3.scaleLinear()
-        .domain([0, d3.max(data[0].values, d => d.value)]).nice()
+        .domain([0, d3.max(data[0].successSeries, d => d.value)]).nice()
         .range([height - margin.bottom, margin.top]);
 
     const xAxis = g => g
@@ -85,7 +86,7 @@
             .tickFormat(d3.timeFormat("%H:%M:%S"))
             .ticks(8));
 
-    const yAxis = g => g
+    const yAxis = (g, applicationName) => g
         .attr("transform", `translate(${margin.left},0)`)
         .call(d3.axisLeft(y))
         .call(g => g.select(".domain").remove())
@@ -93,7 +94,7 @@
         .attr("x", 3)
         .attr("text-anchor", "start")
         .attr("font-weight", "bold")
-        .text(data[0].key));
+        .text(applicationName));
 
     const successArea = d3.area()
         .curve(d3.curveBasisOpen)
@@ -109,37 +110,42 @@
 
     function draw() {
         
-        const container = d3
-            .select('body')
-            .append('div')
-            .attr('class', 'chart-container')
-            .attr('height', height)
-            .attr('width', width); 
-    
-        const svg = container
-            .append("svg")
-            .attr("viewBox", [0, 0, width, height])
-            .attr('height', height)
-            .attr('width', width);
-          
-        svg.append("path")
-            .datum(data[0].values)
-            .attr("fill", color(data[0].errorSeries))
-            .attr("d", successArea);
+        for (let applicationIndex in data) {
 
-        svg.append("path")
-            .datum(data[1].values)
-            .attr("fill", color(data[1].errorSeries))
-            .attr("d", failureArea);
+            const application = data[applicationIndex];
+
+            const container = d3
+                .select('body')
+                .append('div')
+                .attr('class', `chart-container-${applicationName}`)
+                .attr('height', height)
+                .attr('width', width); 
         
-        svg.append("g")
-            .attr("class", "x-axis")
-            .call(xAxis);
-        
-        svg.append("g")
-            .call(yAxis);
-        
-        return svg.node();
+            const svg = container
+                .append("svg")
+                .attr("viewBox", [0, 0, width, height])
+                .attr('height', height)
+                .attr('width', width);
+            
+            svg.append("path")
+                .datum(application.successSeries)
+                .attr("fill", color(false))
+                .attr("d", successArea);
+
+            svg.append("path")
+                .datum(application.errorSeries)
+                .attr("fill", color(true))
+                .attr("d", failureArea);
+            
+            svg.append("g")
+                .attr("class", "x-axis")
+                .call(xAxis);
+            
+            svg.append("g")
+                .call(yAxis, application.key);
+            
+            //return svg.node();
+        }
     }
 
     return {

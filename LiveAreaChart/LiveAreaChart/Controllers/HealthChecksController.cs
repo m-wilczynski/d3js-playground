@@ -18,11 +18,11 @@ namespace LiveAreaChartExample.Controllers
             //Imitate background healthcheck collection
             new Thread(_ =>
             {
-                while(true)
+                while (true)
                 {
                     //Self-cleanup for demo deployment
-                    if (_todayHealthCheckHistory.Count > 1800) 
-                    { 
+                    if (_todayHealthCheckHistory.Count > 1800)
+                    {
                         for (var i = 0; i < 6; i++) { _todayHealthCheckHistory.TryTake(out var whatever); }
                     }
 
@@ -124,7 +124,7 @@ namespace LiveAreaChartExample.Controllers
                 new HealthCheckViewModel
                 {
                     Name = "Database",
-                    ApplicationName = "MyApplication #1",
+                    ApplicationName = "MyApplication #2",
                     MachineName = "machine02",
                     CheckTime = now,
                     Success = Random.NextDouble() > 0.2,
@@ -132,7 +132,7 @@ namespace LiveAreaChartExample.Controllers
                 new HealthCheckViewModel
                 {
                     Name = "Queue",
-                    ApplicationName = "MyApplication #1",
+                    ApplicationName = "MyApplication #2",
                     MachineName = "machine02",
                     CheckTime = now,
                     Success = Random.NextDouble() > 0.2,
@@ -140,7 +140,7 @@ namespace LiveAreaChartExample.Controllers
                 new HealthCheckViewModel
                 {
                     Name = "Other service",
-                    ApplicationName = "MyApplication #1",
+                    ApplicationName = "MyApplication #2",
                     MachineName = "machine02",
                     CheckTime = now,
                     Success = Random.NextDouble() > 0.2,
@@ -179,7 +179,7 @@ namespace LiveAreaChartExample.Controllers
                     new HealthCheckViewModel
                     {
                         Name = "Database",
-                        ApplicationName = "MyApplication #1",
+                        ApplicationName = "MyApplication #2",
                         MachineName = "machine02",
                         CheckTime = now,
                         Success = Random.NextDouble() > 0.2,
@@ -187,7 +187,7 @@ namespace LiveAreaChartExample.Controllers
                     new HealthCheckViewModel
                     {
                         Name = "Queue",
-                        ApplicationName = "MyApplication #1",
+                        ApplicationName = "MyApplication #2",
                         MachineName = "machine02",
                         CheckTime = now,
                         Success = Random.NextDouble() > 0.2,
@@ -195,7 +195,7 @@ namespace LiveAreaChartExample.Controllers
                     new HealthCheckViewModel
                     {
                         Name = "Other service",
-                        ApplicationName = "MyApplication #1",
+                        ApplicationName = "MyApplication #2",
                         MachineName = "machine02",
                         CheckTime = now,
                         Success = Random.NextDouble() > 0.2,

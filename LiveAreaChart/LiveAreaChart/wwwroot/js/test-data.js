@@ -4,12600 +4,12600 @@
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:35.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:35.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:34.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:35.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:34.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:35.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:35.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:36.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:36.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:35.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:36.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:36.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:36.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:36.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:37.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:37.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:36.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:37.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:36.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:37.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:37.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:38.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:37.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:37.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:37.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:37.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:38.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:38.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:39.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:39.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:40.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:41.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:41.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:41.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:40.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:40.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:40.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:41.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:41.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:41.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:42.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:41.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:42.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:41.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:42.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:41.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:42.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:43.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:42.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:43.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:42.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:43.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:42.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:43.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:42.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:42.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:43.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:43.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:44.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:44.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:45.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:44.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:45.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:44.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:45.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:45.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:45.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:46.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:46.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:47.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:46.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:47.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:46.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:47.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:46.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:46.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:47.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:46.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:47.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:47.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:48.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:48.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:47.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:48.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:48.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:48.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:49.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:48.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:49.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:49.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:50.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:49.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:50.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:49.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:50.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:50.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:51.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:50.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:50.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:50.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:50.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:51.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:50.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:51.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:52.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:52.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:53.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:52.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:53.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:54.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:54.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:54.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:54.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:55.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:55.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:54.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:55.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:54.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:55.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:55.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:55.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:55.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:56.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:55.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:56.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:55.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:56.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:57.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:56.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:56.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:57.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:56.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:58.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:57.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:58.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:57.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:58:58.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:59.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:59.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:58.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:58:59.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:58:59.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:59.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:59.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:59.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:12:59.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:12:59.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:12:59.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:00.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:00.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:01.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:00.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:01.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:00.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:01.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:00.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:01.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:00.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:01.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:01.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:02.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:01.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:02.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:01.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:02.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:01.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:02.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:01.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:02.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:01.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:02.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:02.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:02.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:03.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:02.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:02.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:02.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:02.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:03.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:03.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:03.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:03.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:03.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:03.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:04.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:04.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:04.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:04.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:04.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:04.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:04.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:05.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:05.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:05.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:05.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:05.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:05.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:06.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:06.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:06.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:06.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:06.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:07.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:06.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:07.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:08.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:07.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:07.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:08.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:07.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:08.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:07.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:07.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:08.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:08.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:09.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:08.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:08.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:09.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:08.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:08.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:09.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:10.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:09.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:10.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:09.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:10.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:09.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:09.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:09.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:10.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:10.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:10.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:10.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:11.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:10.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:10.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:10.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:11.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:11.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:11.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:12.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:11.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:11.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:11.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:12.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:12.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:12.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:13.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:12.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:12.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:13.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:12.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:12.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:13.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:13.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:13.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:14.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:13.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:14.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:13.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:13.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:14.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:15.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:14.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:15.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:15.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:15.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:15.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:15.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:15.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:15.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:15.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:16.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:15.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:15.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:16.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:16.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:16.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:17.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:16.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:16.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:16.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:17.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:16.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:16.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:17.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:18.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:18.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:17.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:17.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:17.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:18.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:18.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:19.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:18.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:18.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:18.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:18.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:18.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:19.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:20.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:19.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:20.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:20.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:20.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:19.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:19.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:20.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:20.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:21.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:20.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:21.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:21.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:21.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:21.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:21.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:22.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:21.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:21.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:22.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:21.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:21.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:21.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:22.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:22.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:22.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:22.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:23.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:23.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:22.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:23.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:23.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:23.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:24.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:23.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:24.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:24.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:23.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:23.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:24.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:24.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:24.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:25.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:24.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:24.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:24.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:24.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:25.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:25.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:25.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:26.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:25.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:26.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:25.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:26.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:25.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:26.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:25.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:26.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:26.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:26.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:26.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:26.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:27.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:26.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:27.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:28.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:27.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:27.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:27.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:27.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:27.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:28.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:28.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:28.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:29.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:28.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:29.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:28.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:28.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:28.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:29.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:29.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:29.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:29.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:29.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:30.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:29.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:29.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:30.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:30.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:30.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:31.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:30.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:30.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:30.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:32.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:31.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:32.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:31.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:31.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:31.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:31.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:32.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:32.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:32.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:33.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:32.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:33.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:32.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:32.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:32.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:33.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:33.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:33.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:33.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:34.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:33.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:33.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:35.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:34.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:35.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:35.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:34.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:35.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:36.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:36.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:35.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:36.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:35.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:36.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:37.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:37.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:37.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:36.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:37.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:37.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:37.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:37.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:37.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:37.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:38.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:37.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:37.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:38.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:37.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:38.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:38.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:39.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:38.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:39.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:38.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:39.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:40.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:39.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:41.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:40.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:41.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:40.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:41.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:40.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:41.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:40.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:41.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:41.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:42.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:41.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:42.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:41.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:42.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:41.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:42.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:41.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:42.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:43.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:42.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:43.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:42.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:43.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:42.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:42.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:42.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:43.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:43.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:44.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:43.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:44.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:43.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:45.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:45.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:44.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:45.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:44.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:45.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:46.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:46.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:46.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:46.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:46.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:47.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:46.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:47.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:48.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:47.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:48.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:48.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:48.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:47.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:48.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:49.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:50.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:49.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:50.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:50.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:51.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:50.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:51.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:50.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:50.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:51.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:50.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:51.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:51.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:52.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:51.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:52.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:51.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:52.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:51.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:52.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:53.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:52.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:53.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:54.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:53.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:54.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:54.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:55.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:54.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:55.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:54.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:55.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:54.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:55.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:55.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:55.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:56.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:55.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:55.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:55.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:55.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-13T23:59:56.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:56.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:56.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:56.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:57.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:56.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:57.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:59.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:58.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:59.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:58.8320081+02:00",
+        "checkTime": "2020-09-13T23:59:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:58.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-13T23:59:59.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:59.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:00.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:13:59.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:00.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:13:59.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:00.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:13:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:01.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:01.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:01.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:01.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:01.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:02.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:01.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:02.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:02.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:03.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:02.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:03.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:04.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:04.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:04.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:04.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:04.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:05.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:04.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:05.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:05.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:06.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:05.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:06.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:06.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:07.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:06.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:07.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:06.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:07.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:07.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:08.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:08.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:09.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:08.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:09.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:08.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:09.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:08.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:09.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:10.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:10.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:09.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:10.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:10.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:10.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:11.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:10.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:11.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:11.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:11.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:12.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:11.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:12.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:11.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:12.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:12.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:13.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:12.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:13.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:13.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:14.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:13.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:14.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:13.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:14.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:15.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:15.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:15.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:15.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:15.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:15.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:15.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:16.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:16.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:16.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:17.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:16.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:17.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:18.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:18.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:19.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:20.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:20.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:20.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:20.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:20.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:20.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:21.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:20.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:21.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:21.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:21.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:22.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:23.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:23.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:22.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:23.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:23.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:23.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:24.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:23.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:24.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:24.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:24.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:25.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:26.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:25.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:26.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:25.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:26.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:25.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:26.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:26.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:27.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:27.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:27.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:28.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:27.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:28.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:28.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:29.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:28.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:29.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:29.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:30.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:29.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:30.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:30.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:31.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:32.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:31.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:32.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:32.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:32.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:33.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:32.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:33.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:33.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:34.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:33.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:34.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:34.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:35.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:34.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:35.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:35.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:36.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:35.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:36.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:36.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:37.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:36.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:37.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:37.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:36.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:37.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:37.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:38.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:37.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:38.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:37.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:38.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:38.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:39.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:39.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:40.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:41.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:41.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:40.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:41.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:42.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:42.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:42.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:43.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:43.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:43.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:44.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:43.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:44.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:45.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:44.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:45.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:45.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:46.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:46.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:45.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:46.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:48.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:48.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:47.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:48.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:48.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:47.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:48.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:48.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:49.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:49.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:50.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:49.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:50.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:50.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:51.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:50.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:51.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:51.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:52.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:54.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:54.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:54.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:54.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:55.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:55.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:54.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:55.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:55.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:54.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:55.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:55.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:56.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:55.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:56.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:56.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:55.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:56.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:57.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:56.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:57.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:57.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:58.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:59.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:58.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:00:59.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:00:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:58.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:00:59.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:59.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:00.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:14:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:14:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:14:59.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:00.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:01.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:00.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:01.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:00.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:01.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:01.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:02.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:02.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:03.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:02.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:03.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:02.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:03.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:02.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:03.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:02.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:03.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:04.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:03.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:04.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:03.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:04.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:04.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:04.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:05.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:04.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:05.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:05.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:06.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:05.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:06.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:05.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:06.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:06.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:06.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:07.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:07.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:08.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:07.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:08.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:08.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:09.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:08.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:09.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:10.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:10.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:09.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:10.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:09.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:10.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:10.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:10.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:11.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:10.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:11.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:11.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:12.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:12.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:12.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:13.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:14.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:13.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:14.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:15.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:15.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:15.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:15.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:15.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:15.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:15.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:16.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:16.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:16.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:17.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:17.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:16.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:17.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:18.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:17.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:18.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:18.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:18.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:19.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:18.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:19.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:20.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:20.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:20.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:20.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:21.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:21.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:20.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:21.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:20.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:21.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:21.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:22.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:23.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:23.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:23.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:23.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:23.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:24.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:24.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:24.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:25.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:25.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:24.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:25.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:25.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:26.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:25.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:26.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:26.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:25.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:26.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:26.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:27.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:27.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:28.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:27.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:28.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:27.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:28.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:27.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:28.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:28.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:29.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:29.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:29.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:30.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:29.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:30.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:29.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:30.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:30.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:31.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:30.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:31.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:30.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:31.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:32.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:32.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:32.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:32.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:32.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:33.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:33.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:34.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:35.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:34.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:35.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:34.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:35.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:34.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:35.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:35.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:36.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:36.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:35.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:36.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:36.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:35.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:36.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:37.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:36.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:37.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:37.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:37.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:37.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:38.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:37.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:38.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:37.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:38.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:37.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:38.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:39.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:39.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:40.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:40.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:39.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:40.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:41.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:42.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:41.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:42.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:42.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:41.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:42.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:43.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:43.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:42.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:43.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:43.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:44.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:43.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:44.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:44.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:44.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:45.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:45.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:44.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:45.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:44.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:45.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:45.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:46.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:47.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:46.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:47.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:46.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:47.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:47.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:48.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:47.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:48.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:47.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:48.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:48.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:49.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:49.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:50.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:50.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:51.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:51.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:52.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:52.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:53.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:52.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:53.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:53.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:52.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:53.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:54.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:53.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:54.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:53.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:54.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:55.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:55.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:55.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:55.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:56.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:56.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:57.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:57.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:57.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:58.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:58.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:59.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:59.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:58.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:59.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:58.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:01:59.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:01:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:58.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:01:59.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:59.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:00.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:15:59.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:00.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:15:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:15:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:00.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:01.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:01.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:00.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:01.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:01.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:01.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:02.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:03.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:02.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:03.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:04.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:04.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:03.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:04.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:04.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:05.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:04.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:05.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:05.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:06.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:05.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:06.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:06.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:07.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:06.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:07.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:06.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:07.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:08.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:07.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:08.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:07.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:08.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:09.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:08.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:09.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:10.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:09.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:10.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:09.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:10.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:09.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:10.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:10.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:11.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:11.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:12.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:12.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:13.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:12.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:13.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:13.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:14.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:14.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:15.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:15.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:15.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:15.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:15.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:15.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:16.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:16.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:16.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:17.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:17.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:16.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:17.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:17.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:18.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:18.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:18.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:18.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:19.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:20.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:20.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:19.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:20.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:20.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:21.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:21.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:21.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:21.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:21.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:22.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:22.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:22.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:23.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:23.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:23.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:24.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:24.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:23.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:24.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:23.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:24.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:24.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:25.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:26.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:25.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:26.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:25.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:26.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:26.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:27.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:27.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:28.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:27.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:28.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:28.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:29.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:28.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:29.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:29.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:28.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:29.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:29.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:30.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:32.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:32.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:32.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:32.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:32.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:33.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:34.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:33.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:34.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:33.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:34.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:35.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:34.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:35.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:34.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:35.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:34.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:35.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:34.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:35.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:34.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:35.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:35.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:36.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:36.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:35.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:36.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:35.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:36.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:35.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:36.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:36.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:37.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:36.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:37.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:36.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:37.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:36.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:37.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:36.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:37.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:38.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:37.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:38.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:38.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:37.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:38.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:38.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:39.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:39.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:38.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:39.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:38.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:39.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:38.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:39.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:38.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:39.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:39.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:40.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:39.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:40.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:39.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:40.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:39.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:40.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:39.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:40.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:40.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:41.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:40.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:41.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:41.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:40.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:41.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:41.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:42.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:41.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:42.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:41.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:42.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:41.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:42.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:42.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:43.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:43.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:43.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:42.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:43.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:44.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:44.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:43.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:44.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:43.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:44.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:43.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:44.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:45.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:44.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:45.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:45.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:45.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:44.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:45.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:44.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:45.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:45.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:46.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:46.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:45.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:46.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:45.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:46.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:45.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:46.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:45.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:46.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:46.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:47.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:46.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:47.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:46.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:47.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:46.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:47.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:46.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:47.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:46.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:47.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:47.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:48.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:47.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:48.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:47.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:48.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:48.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:47.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:48.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:49.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:49.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:48.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:49.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:49.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:50.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:50.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:49.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:50.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:51.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:50.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:51.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:50.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:51.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:51.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:52.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:52.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:51.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:52.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:51.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:52.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:51.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:52.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:52.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:53.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:52.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:53.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:53.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:52.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:53.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:52.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:53.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:53.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:54.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:54.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:53.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:54.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:53.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:54.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:55.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:55.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:54.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:55.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:54.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:55.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:54.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:55.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:54.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:55.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:56.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:55.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:56.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:56.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:57.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:56.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:57.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:57.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:56.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:57.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:57.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:58.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:57.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:02:58.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:58.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:57.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:58.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:58.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:59.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:59.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:58.8320081+02:00",
+        "checkTime": "2020-09-14T00:02:59.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:58.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:02:59.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:59.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:00.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:16:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:00.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:16:59.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:00.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:16:59.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:00.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:01.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:00.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:01.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:00.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:01.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:00.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:01.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:00.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:01.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:00.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:01.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:01.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:02.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:02.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:01.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:02.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:03.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:02.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:03.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:02.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:03.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:02.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:03.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:04.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:03.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:04.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:04.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:03.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:04.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:04.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:05.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:04.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:05.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:04.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:05.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:05.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:04.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:05.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:06.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:05.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:06.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:05.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:06.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:06.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:05.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:06.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:06.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:07.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:07.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:06.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:07.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:06.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:07.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:06.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:07.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:06.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:07.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:08.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:07.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:08.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:07.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:08.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:09.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:08.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:09.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:08.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:09.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:10.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:09.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:10.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:09.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:10.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:09.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:10.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:09.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:10.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:11.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:10.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:11.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:12.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:12.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:11.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:12.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:12.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:13.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:12.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:13.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:13.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:12.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:13.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:14.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:13.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:14.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:13.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:14.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:13.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:14.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:13.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:14.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:15.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:14.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:15.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:15.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:15.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:14.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:15.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:14.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:15.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:16.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:15.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:16.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:16.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:15.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:16.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:17.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:16.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:17.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:16.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:17.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:16.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:17.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:18.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:17.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:18.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:17.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:18.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:17.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:18.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:17.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:18.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:19.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:19.3038378+02:00",
         "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:18.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:19.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:18.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:19.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:18.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:19.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:19.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:20.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:20.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:19.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:20.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:19.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:20.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:21.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:21.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:21.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:20.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:21.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:20.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:21.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:21.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:22.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:21.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:22.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:21.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:22.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:21.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:22.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:23.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:23.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:23.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:22.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:23.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:22.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:23.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:24.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:23.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:24.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:24.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:25.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:24.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:25.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:24.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:25.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:25.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:24.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:25.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:25.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:26.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:25.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:26.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:26.3038378+02:00",
         "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:25.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:26.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:25.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:26.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:27.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:26.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:27.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:26.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:27.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:27.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:28.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:28.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:27.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:28.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:28.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:29.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:29.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:28.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:29.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:29.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:30.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:29.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:30.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:29.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:30.3038378+02:00",
+        "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:29.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:30.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:30.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:29.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:30.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:31.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:30.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:31.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:30.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:31.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:30.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:31.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:32.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:32.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:31.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:32.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:31.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:32.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:32.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:33.3038378+02:00",
+        "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:33.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:32.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:33.3038378+02:00",
+        "success": false
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:32.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:33.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:33.8320081+02:00",
-        "success": true
+        "checkTime": "2020-09-14T00:03:34.3038378+02:00",
+        "success": false
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:34.3038378+02:00",
         "success": true
     },
     {
         "applicationName": "MyApplication #1",
         "machineName": "machine01",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Database",
-        "checkTime": "2020-09-13T23:17:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Queue",
-        "checkTime": "2020-09-13T23:17:33.8320081+02:00",
+        "checkTime": "2020-09-14T00:03:34.3038378+02:00",
         "success": true
     },
     {
-        "applicationName": "MyApplication #1",
+        "applicationName": "MyApplication #2",
         "machineName": "machine02",
         "name": "Other service",
-        "checkTime": "2020-09-13T23:17:33.8320081+02:00",
-        "success": false
+        "checkTime": "2020-09-14T00:03:34.3038378+02:00",
+        "success": true
     }
 ]
