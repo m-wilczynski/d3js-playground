@@ -1,7 +1,16 @@
-﻿.x-axis .tick text {
-    
+﻿html {
+    font-family: Helvetica;
 }
 
-html {
-    font-family: Helvetica;
+body {
+    margin: 5%;
+}
+
+#root-container {
+    margin: 0 auto;
+    max-width: 1366px;
+}
+
+.chart-container {
+    display: inline-block;
 }

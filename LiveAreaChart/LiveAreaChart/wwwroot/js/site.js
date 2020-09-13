@@ -115,9 +115,10 @@
             const application = data[applicationIndex];
 
             const container = d3
-                .select('body')
+                .select('#root-container')
                 .append('div')
-                .attr('class', `chart-container-${applicationName}`)
+                .attr('id', `chart-container-${applicationName}`)
+                .attr('class', `chart-container`)
                 .attr('height', height)
                 .attr('width', width); 
         
