@@ -145,22 +145,22 @@
             .attr('class', 'series')
             .datum(data.successSeries)
             .attr("fill", color(false))
-            .attr("d", chartConfig.zeroArea)
-            .transition().duration(1000)
+            //.attr("d", chartConfig.zeroArea)
+            //.transition().duration(1000)
             .attr("d", chartConfig.successArea);
 
         rootSvg.append("path")
             .attr('class', 'series')
             .datum(data.errorSeries)
             .attr("fill", color(true))
-            .attr("d", chartConfig.zeroArea)
-            .transition().duration(1000)
+            //.attr("d", chartConfig.zeroArea)
+            //.transition().duration(1000)
             .attr("d", chartConfig.failureArea)
     }
 
     function removeSeries() {
         rootSvg.selectAll('.series')
-            .transition().duration(1000)
+            //.transition().duration(1000)
             .attr("d", chartConfig.zeroArea)
             .remove();
     }
@@ -205,7 +205,7 @@
 
                 initialized = true;
 
-                startAutoRefresh(2000);
+                startAutoRefresh(1000);
             });
         
         //return svg.node();

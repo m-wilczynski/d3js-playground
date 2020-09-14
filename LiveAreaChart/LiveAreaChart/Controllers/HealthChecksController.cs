@@ -172,7 +172,7 @@ namespace LiveAreaChartExample.Controllers
                         }
                     }
 
-                    Thread.Sleep(2000);
+                    Thread.Sleep(250);
                 }
             }).Start();
         }
