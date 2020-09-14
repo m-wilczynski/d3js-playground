@@ -16,6 +16,9 @@
     let data = {};
     let chartConfig = {};
     let application = {};
+    let rootSvg = null;
+
+    let refreshInterval = null;
 
     function fetchData(applicationId) {
         return axios.get(`/api/healthchecks/get-latest/${applicationId}`);
@@ -60,15 +63,15 @@
         };
     }
 
-    function buildConfiguration(sanitizedData) {
+    function buildConfiguration() {
 
         const config = {
             x: d3.scaleTime()
-                .domain(d3.extent(sanitizedData.successSeries, d => d.date))
+                .domain(d3.extent(data.successSeries, d => d.date))
                 .range([margin.left, width - margin.right]),
 
             y: d3.scaleLinear()
-                .domain([0, d3.max(sanitizedData.successSeries, d => d.value)]).nice()
+                .domain([0, d3.max(data.successSeries, d => d.value)]).nice()
                 .range([height - margin.bottom, margin.top])
         };
 
@@ -102,11 +105,74 @@
             .y0(config.y(0))
             .y1(d => config.y(d.value));
 
-        return Object.freeze(config);
+        config.zeroArea = d3.area()
+            .curve(d3.curveStep)
+            .x(d => config.x(d.date))
+            .y0(config.y(0))
+            .y1(config.y(0));
+
+        config.recalculateDomainX = () => 
+        {
+            config.x.domain(d3.extent(data.successSeries, d => d.date));
+        };
+        config.recalculateDomainY = () => {
+            config.y.domain([0, d3.max(data.successSeries, d => d.value)]).nice();
+        };
+
+        return config;
     }
     
     function refresh(applicationId) {
-        fetchData(applicationId).then(_ => sanitizeData(_.data));
+        fetchData(applicationId)
+        .then(_ => { 
+            data = sanitizeData(_.data);
+
+            removeSeries();
+            rootSvg.selectAll('.axis')
+                .remove();
+            
+            chartConfig.recalculateDomainX();
+            chartConfig.recalculateDomainY();
+
+            createSeries();
+            createAxis();
+        });
+    }
+
+    function createSeries() {
+
+        rootSvg.append("path")
+            .attr('class', 'series')
+            .datum(data.successSeries)
+            .attr("fill", color(false))
+            .attr("d", chartConfig.zeroArea)
+            .transition().duration(1000)
+            .attr("d", chartConfig.successArea);
+
+        rootSvg.append("path")
+            .attr('class', 'series')
+            .datum(data.errorSeries)
+            .attr("fill", color(true))
+            .attr("d", chartConfig.zeroArea)
+            .transition().duration(1000)
+            .attr("d", chartConfig.failureArea)
+    }
+
+    function removeSeries() {
+        rootSvg.selectAll('.series')
+            .transition().duration(1000)
+            .attr("d", chartConfig.zeroArea)
+            .remove();
+    }
+
+    function createAxis() {
+        rootSvg.append("g")
+            .attr("class", "axis")
+            .call(chartConfig.xAxis);
+    
+            rootSvg.append("g")
+            .attr("class", "axis")
+            .call(chartConfig.yAxis, data.applicationId);
     }
 
     function initialize(applicationId) {
@@ -118,7 +184,7 @@
         fetchData(applicationId)
             .then(_ => { 
                 data = sanitizeData(_.data);
-                chartConfig = buildConfiguration(data);
+                chartConfig = buildConfiguration();
                 
                 const container = d3
                     .select('#root-container')
@@ -128,39 +194,40 @@
                     .attr('height', height)
                     .attr('width', width); 
             
-                const svg = container
+                rootSvg = container
                     .append("svg")
                     .attr("viewBox", [0, 0, width, height])
                     .attr('height', height)
                     .attr('width', width);
-                
-                svg.append("path")
-                    .datum(data.successSeries)
-                    .attr("fill", color(false))
-                    .attr("d", chartConfig.successArea);
 
-                svg.append("path")
-                    .datum(data.errorSeries)
-                    .attr("fill", color(true))
-                    .attr("d", chartConfig.failureArea);
-                
-                svg.append("g")
-                    .attr("class", "x-axis")
-                    .call(chartConfig.xAxis);
-                
-                svg.append("g")
-                    .call(chartConfig.yAxis, data.applicationId);
+                createSeries();
+                createAxis();
 
-                this.initialized = true;
+                initialized = true;
+
+                startAutoRefresh(2000);
             });
         
         //return svg.node();
+    }
+
+    function startAutoRefresh(intervalTime) {
+        if (!initialized || refreshInterval !== null) { return; }
+        refreshInterval = setInterval(function() { refresh(application.applicationId) }, intervalTime);
+    }
+
+    function stopAutoRefresh() {
+        if (!initialized || refreshInterval === null) { return; }
+        clearInterval(refreshInterval);
+        refreshInterval = null;
     }
 
     return {
         refresh: refresh,
         initialize: initialize,
         currentData: Array.from(data),
+        startAutoRefresh: startAutoRefresh,
+        stopAutoRefresh: stopAutoRefresh
     }
 
 })();

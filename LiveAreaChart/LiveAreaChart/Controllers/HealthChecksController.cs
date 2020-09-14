@@ -91,6 +91,78 @@ namespace LiveAreaChartExample.Controllers
                                 MachineName = "machine02",
                                 CheckTime = now,
                                 Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Database",
+                                ApplicationId = 1,
+                                MachineName = "machine03",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Queue",
+                                ApplicationId = 1,
+                                MachineName = "machine03",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Other service",
+                                ApplicationId = 1,
+                                MachineName = "machine03",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Database",
+                                ApplicationId = 1,
+                                MachineName = "machine04",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Queue",
+                                ApplicationId = 1,
+                                MachineName = "machine04",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Other service",
+                                ApplicationId = 1,
+                                MachineName = "machine04",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Database",
+                                ApplicationId = 1,
+                                MachineName = "machine05",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Queue",
+                                ApplicationId = 1,
+                                MachineName = "machine05",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Other service",
+                                ApplicationId = 1,
+                                MachineName = "machine05",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
                             }
                         };
 
@@ -100,9 +172,15 @@ namespace LiveAreaChartExample.Controllers
                         }
                     }
 
-                    Thread.Sleep(500);
+                    Thread.Sleep(2000);
                 }
             }).Start();
+        }
+
+        [HttpGet("applications")]
+        public ICollection<ApplicationDefinitionViewModel> GetApplications()
+        {
+            return _applications;
         }
 
         [HttpGet("get-latest/{applicationId:int}")]
