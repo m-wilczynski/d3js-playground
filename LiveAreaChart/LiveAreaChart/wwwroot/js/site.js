@@ -15,7 +15,7 @@
 
     let data = {};
     let chartConfig = {};
-    let applicationId;
+    let application = {};
 
     function fetchData(applicationId) {
         return axios.get(`/api/healthchecks/get-latest/${applicationId}`);
@@ -113,7 +113,7 @@
         
         if (initialized) { throw 'Already initialized'; }
 
-        applicationId = applicationId;
+        application = { applicationId: applicationId };
 
         fetchData(applicationId)
             .then(_ => { 
