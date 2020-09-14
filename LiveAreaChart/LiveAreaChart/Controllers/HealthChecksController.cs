@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.Collections.Immutable;
 using System.Threading;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,7 +12,15 @@ namespace LiveAreaChartExample.Controllers
     public class HealthChecksController : ControllerBase
     {
         private static readonly Random Random = new Random();
-        private static ConcurrentBag<HealthCheckViewModel> _todayHealthCheckHistory = new ConcurrentBag<HealthCheckViewModel>();
+
+        private static ImmutableList<ApplicationDefinitionViewModel> _applications = new List<ApplicationDefinitionViewModel>
+        {
+            new ApplicationDefinitionViewModel { Id = 1, Name = "My Application #1" },
+            new ApplicationDefinitionViewModel { Id = 2, Name = "My Application #2" }
+        }.ToImmutableList();
+
+        private static readonly ImmutableDictionary<int, ConcurrentBag<HealthCheckViewModel>> _healthChecksByApplicationId =
+            _applications.ToImmutableDictionary(_ => _.Id, _ => new ConcurrentBag<HealthCheckViewModel>());
 
         static HealthChecksController()
         {
@@ -20,77 +29,84 @@ namespace LiveAreaChartExample.Controllers
             {
                 while (true)
                 {
-                    //Self-cleanup for demo deployment
-                    if (_todayHealthCheckHistory.Count > 1800)
+                    foreach (var kvp in _healthChecksByApplicationId)
                     {
-                        for (var i = 0; i < 6; i++) { _todayHealthCheckHistory.TryTake(out var whatever); }
-                    }
+                        var applicationId = kvp.Key;
+                        var applicationHealtcheks = kvp.Value;
 
-                    var now = DateTime.Now;
-
-                    var healthchecks = new List<HealthCheckViewModel>
-                    {
-                        new HealthCheckViewModel
+                        //Self-cleanup for demo deployment
+                        if (applicationHealtcheks.Count > 1800)
                         {
-                            Name = "Database",
-                            ApplicationName = "MyApplication #1",
-                            MachineName = "machine01",
-                            CheckTime = now,
-                            Success = Random.NextDouble() > 0.2,
-                        },
-                        new HealthCheckViewModel
-                        {
-                            Name = "Queue",
-                            ApplicationName = "MyApplication #1",
-                            MachineName = "machine01",
-                            CheckTime = now,
-                            Success = Random.NextDouble() > 0.2,
-                        },
-                        new HealthCheckViewModel
-                        {
-                            Name = "Other service",
-                            ApplicationName = "MyApplication #1",
-                            MachineName = "machine01",
-                            CheckTime = now,
-                            Success = Random.NextDouble() > 0.2,
-                        },
-                        new HealthCheckViewModel
-                        {
-                            Name = "Database",
-                            ApplicationName = "MyApplication #1",
-                            MachineName = "machine02",
-                            CheckTime = now,
-                            Success = Random.NextDouble() > 0.2,
-                        },
-                        new HealthCheckViewModel
-                        {
-                            Name = "Queue",
-                            ApplicationName = "MyApplication #1",
-                            MachineName = "machine02",
-                            CheckTime = now,
-                            Success = Random.NextDouble() > 0.2,
-                        },
-                        new HealthCheckViewModel
-                        {
-                            Name = "Other service",
-                            ApplicationName = "MyApplication #1",
-                            MachineName = "machine02",
-                            CheckTime = now,
-                            Success = Random.NextDouble() > 0.2,
+                            for (var i = 0; i < 6; i++) { applicationHealtcheks.TryTake(out var whatever); }
                         }
-                    };
 
-                    foreach (var healthCheck in healthchecks)
-                    {
-                        _todayHealthCheckHistory.Add(healthCheck);
+                        var now = DateTime.Now;
+
+                        var healthchecks = new List<HealthCheckViewModel>
+                        {
+                            new HealthCheckViewModel
+                            {
+                                Name = "Database",
+                                ApplicationId = 1,
+                                MachineName = "machine01",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Queue",
+                                ApplicationId = 1,
+                                MachineName = "machine01",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Other service",
+                                ApplicationId = 1,
+                                MachineName = "machine01",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Database",
+                                ApplicationId = 1,
+                                MachineName = "machine02",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Queue",
+                                ApplicationId = 1,
+                                MachineName = "machine02",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            },
+                            new HealthCheckViewModel
+                            {
+                                Name = "Other service",
+                                ApplicationId = 1,
+                                MachineName = "machine02",
+                                CheckTime = now,
+                                Success = Random.NextDouble() > 0.2,
+                            }
+                        };
+
+                        foreach (var healthCheck in healthchecks)
+                        {
+                            applicationHealtcheks.Add(healthCheck);
+                        }
                     }
+
                     Thread.Sleep(500);
                 }
             }).Start();
         }
 
-        [HttpGet("get-latest")]
-        public List<HealthCheckViewModel> GetLatestData()
+        [HttpGet("get-latest/{applicationId:int}")]
+        public List<HealthCheckViewModel> GetLatestData(int applicationId)
         {
 #if DEBUG
             var now = DateTime.Now;
@@ -100,7 +116,7 @@ namespace LiveAreaChartExample.Controllers
                 new HealthCheckViewModel
                 {
                     Name = "Database",
-                    ApplicationName = "MyApplication #1",
+                    ApplicationId = applicationId,
                     MachineName = "machine01",
                     CheckTime = now,
                     Success = Random.NextDouble() > 0.2,
@@ -108,7 +124,7 @@ namespace LiveAreaChartExample.Controllers
                 new HealthCheckViewModel
                 {
                     Name = "Queue",
-                    ApplicationName = "MyApplication #1",
+                    ApplicationId = applicationId,
                     MachineName = "machine01",
                     CheckTime = now,
                     Success = Random.NextDouble() > 0.2,
@@ -116,32 +132,8 @@ namespace LiveAreaChartExample.Controllers
                 new HealthCheckViewModel
                 {
                     Name = "Other service",
-                    ApplicationName = "MyApplication #1",
+                    ApplicationId = applicationId,
                     MachineName = "machine01",
-                    CheckTime = now,
-                    Success = Random.NextDouble() > 0.2,
-                },
-                new HealthCheckViewModel
-                {
-                    Name = "Database",
-                    ApplicationName = "MyApplication #2",
-                    MachineName = "machine02",
-                    CheckTime = now,
-                    Success = Random.NextDouble() > 0.2,
-                },
-                new HealthCheckViewModel
-                {
-                    Name = "Queue",
-                    ApplicationName = "MyApplication #2",
-                    MachineName = "machine02",
-                    CheckTime = now,
-                    Success = Random.NextDouble() > 0.2,
-                },
-                new HealthCheckViewModel
-                {
-                    Name = "Other service",
-                    ApplicationName = "MyApplication #2",
-                    MachineName = "machine02",
                     CheckTime = now,
                     Success = Random.NextDouble() > 0.2,
                 }
@@ -155,7 +147,7 @@ namespace LiveAreaChartExample.Controllers
                     new HealthCheckViewModel
                     {
                         Name = "Database",
-                        ApplicationName = "MyApplication #1",
+                        ApplicationId = applicationId,
                         MachineName = "machine01",
                         CheckTime = now,
                         Success = Random.NextDouble() > 0.2,
@@ -163,7 +155,7 @@ namespace LiveAreaChartExample.Controllers
                     new HealthCheckViewModel
                     {
                         Name = "Queue",
-                        ApplicationName = "MyApplication #1",
+                        ApplicationId = applicationId,
                         MachineName = "machine01",
                         CheckTime = now,
                         Success = Random.NextDouble() > 0.2,
@@ -171,32 +163,8 @@ namespace LiveAreaChartExample.Controllers
                     new HealthCheckViewModel
                     {
                         Name = "Other service",
-                        ApplicationName = "MyApplication #1",
+                        ApplicationId = applicationId,
                         MachineName = "machine01",
-                        CheckTime = now,
-                        Success = Random.NextDouble() > 0.2,
-                    },
-                    new HealthCheckViewModel
-                    {
-                        Name = "Database",
-                        ApplicationName = "MyApplication #2",
-                        MachineName = "machine02",
-                        CheckTime = now,
-                        Success = Random.NextDouble() > 0.2,
-                    },
-                    new HealthCheckViewModel
-                    {
-                        Name = "Queue",
-                        ApplicationName = "MyApplication #2",
-                        MachineName = "machine02",
-                        CheckTime = now,
-                        Success = Random.NextDouble() > 0.2,
-                    },
-                    new HealthCheckViewModel
-                    {
-                        Name = "Other service",
-                        ApplicationName = "MyApplication #2",
-                        MachineName = "machine02",
                         CheckTime = now,
                         Success = Random.NextDouble() > 0.2,
                     }
@@ -206,16 +174,23 @@ namespace LiveAreaChartExample.Controllers
             return healthchecks;
 #endif
 
-            return new List<HealthCheckViewModel>(_todayHealthCheckHistory);
+            _healthChecksByApplicationId.TryGetValue(applicationId, out var healthChecks);
+            return new List<HealthCheckViewModel>(healthChecks) ?? new List<HealthCheckViewModel>();
         }
     }
 
     public class HealthCheckViewModel
     {
-        public string ApplicationName { get; set; }
+        public int ApplicationId { get; set; }
         public string MachineName { get; set; }
         public string Name { get; set; }
         public DateTime CheckTime { get; set; }
         public bool Success { get; set; }
+    }
+
+    public class ApplicationDefinitionViewModel
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
