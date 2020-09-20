@@ -1,4 +1,4 @@
-﻿const areaChart = (function() {
+﻿const areaChart = function() {
 
     let initialized = false;
 
@@ -90,7 +90,7 @@
                 .attr("y", -10)
                 .attr("text-anchor", "start")
                 .attr("font-weight", "bold")
-                .text(applicationId)
+                .text(`Application id: ${applicationId}`)
             );
 
         config.successArea = d3.area()
@@ -230,4 +230,4 @@
         stopAutoRefresh: stopAutoRefresh
     }
 
-})();
+};

@@ -16,7 +16,9 @@ namespace LiveAreaChartExample.Controllers
         private static ImmutableList<ApplicationDefinitionViewModel> _applications = new List<ApplicationDefinitionViewModel>
         {
             new ApplicationDefinitionViewModel { Id = 1, Name = "My Application #1" },
-            new ApplicationDefinitionViewModel { Id = 2, Name = "My Application #2" }
+            new ApplicationDefinitionViewModel { Id = 2, Name = "My Application #2" },
+            new ApplicationDefinitionViewModel { Id = 3, Name = "My Application #3" },
+            new ApplicationDefinitionViewModel { Id = 4, Name = "My Application #4" },
         }.ToImmutableList();
 
         private static readonly ImmutableDictionary<int, ConcurrentBag<HealthCheckViewModel>> _healthChecksByApplicationId =
@@ -33,6 +35,8 @@ namespace LiveAreaChartExample.Controllers
                     {
                         var applicationId = kvp.Key;
                         var applicationHealtcheks = kvp.Value;
+                        var isHealthier = applicationId % 2 == 0;
+                        var successGenerationThreshold = isHealthier ? 0.05 : 0.2;
 
                         //Self-cleanup for demo deployment
                         if (applicationHealtcheks.Count > 1800)
@@ -47,122 +51,122 @@ namespace LiveAreaChartExample.Controllers
                             new HealthCheckViewModel
                             {
                                 Name = "Database",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine01",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Queue",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine01",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Other service",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine01",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Database",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine02",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Queue",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine02",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Other service",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine02",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Database",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine03",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Queue",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine03",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Other service",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine03",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Database",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine04",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Queue",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine04",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Other service",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine04",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Database",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine05",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Queue",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine05",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             },
                             new HealthCheckViewModel
                             {
                                 Name = "Other service",
-                                ApplicationId = 1,
+                                ApplicationId = applicationId,
                                 MachineName = "machine05",
                                 CheckTime = now,
-                                Success = Random.NextDouble() > 0.2,
+                                Success = Random.NextDouble() > successGenerationThreshold,
                             }
                         };
 
@@ -197,7 +201,7 @@ namespace LiveAreaChartExample.Controllers
                     ApplicationId = applicationId,
                     MachineName = "machine01",
                     CheckTime = now,
-                    Success = Random.NextDouble() > 0.2,
+                    Success = Random.NextDouble() > successGenerationThreshold,
                 },
                 new HealthCheckViewModel
                 {
@@ -205,7 +209,7 @@ namespace LiveAreaChartExample.Controllers
                     ApplicationId = applicationId,
                     MachineName = "machine01",
                     CheckTime = now,
-                    Success = Random.NextDouble() > 0.2,
+                    Success = Random.NextDouble() > successGenerationThreshold,
                 },
                 new HealthCheckViewModel
                 {
@@ -213,7 +217,7 @@ namespace LiveAreaChartExample.Controllers
                     ApplicationId = applicationId,
                     MachineName = "machine01",
                     CheckTime = now,
-                    Success = Random.NextDouble() > 0.2,
+                    Success = Random.NextDouble() > successGenerationThreshold,
                 }
             };
 
@@ -228,7 +232,7 @@ namespace LiveAreaChartExample.Controllers
                         ApplicationId = applicationId,
                         MachineName = "machine01",
                         CheckTime = now,
-                        Success = Random.NextDouble() > 0.2,
+                        Success = Random.NextDouble() > successGenerationThreshold,
                     },
                     new HealthCheckViewModel
                     {
@@ -236,7 +240,7 @@ namespace LiveAreaChartExample.Controllers
                         ApplicationId = applicationId,
                         MachineName = "machine01",
                         CheckTime = now,
-                        Success = Random.NextDouble() > 0.2,
+                        Success = Random.NextDouble() > successGenerationThreshold,
                     },
                     new HealthCheckViewModel
                     {
@@ -244,7 +248,7 @@ namespace LiveAreaChartExample.Controllers
                         ApplicationId = applicationId,
                         MachineName = "machine01",
                         CheckTime = now,
-                        Success = Random.NextDouble() > 0.2,
+                        Success = Random.NextDouble() > successGenerationThreshold,
                     }
                 });
             }
